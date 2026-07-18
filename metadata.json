@@ -1,0 +1,6 @@
+{
+  "name": "Om Pharma",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Makhdumpur, Bihar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
