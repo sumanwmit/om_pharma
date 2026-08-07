@@ -189,15 +189,8 @@ export default function Footer({ setView }: FooterProps) {
           <div>
             <p>
               © {currentYear} {businessDetails.name}. All Rights Reserved. Designed for local trust.{' '}
-              <a
-                href="https://main.webmakerit.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-emerald-500 underline font-medium transition-colors"
-                id="footer-wmit-link"
-              >
-                Developed by WMIT
-              </a>
+              <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
+
             </p>
           </div>
           <div className="flex flex-wrap gap-4 md:gap-6 justify-center">
